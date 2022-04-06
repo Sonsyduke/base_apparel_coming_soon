@@ -152,6 +152,7 @@ body {
 
 .left-side {
   padding: 3rem 4rem;
+  background-image: url("/images/bg-pattern-desktop.svg");
 }
 
 #phone-bg {
